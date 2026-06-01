@@ -118,7 +118,7 @@ docker push yourdockerhubusername/inventory-backend:latest
 ```
 
 Your Docker Hub image URL will be:
-`https://hub.docker.com/r/yourdockerhubusername/inventory-backend`
+`https://hub.docker.com/r/ds90277/inventory-backend`
 
 ---
 
@@ -147,7 +147,7 @@ Your Docker Hub image URL will be:
 
 7. Click **Create Web Service**
 
-Your backend URL will be: `https://inventory-backend-xxxx.onrender.com`
+Your backend URL will be: `https://inventory-backend-buhm.onrender.com`
 
 ---
 
@@ -165,7 +165,7 @@ Your backend URL will be: `https://inventory-backend-xxxx.onrender.com`
    (Use the Render URL from Step 5)
 5. Click **Deploy**
 
-Your frontend URL will be: `https://inventory-system-xxxx.vercel.app`
+Your frontend URL will be: `https://inventory-system-seven-sepia.vercel.app/`
 
 ---
 
